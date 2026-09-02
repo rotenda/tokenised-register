@@ -1,6 +1,6 @@
 # tokenised_register
 
-[![tests](https://github.com/USERNAME/tokenised-register/actions/workflows/tests.yml/badge.svg)](https://github.com/USERNAME/tokenised-register/actions/workflows/tests.yml)
+[![tests](https://github.com/rotenda/tokenised-register/actions/workflows/tests.yml/badge.svg)](https://github.com/rotenda/tokenised-register/actions/workflows/tests.yml)
 
 A reference implementation of a securities register for tokenised private-market debt, built for the South African legal position.
 
